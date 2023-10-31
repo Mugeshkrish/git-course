@@ -1,2 +1,0 @@
-username=Mugesh
-Password=Kannan
